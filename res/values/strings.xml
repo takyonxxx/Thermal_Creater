@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thermal Creater</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="file_invalid">The selected file is invalid.</string> 
+    <string name="file_select">Please select a file.</string> 
+    <string name="file_size_byte">byte</string> 
+    <string name="file_size_bytes">bytes</string> 
+    <string name="file_size_kb">kB</string> 
+    <string name="file_size_mb">MB</string> 
+    <string name="file_size_gb">GB</string> 
+      <string name="ok">OK</string>  
+</resources>
